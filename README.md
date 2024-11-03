@@ -20,7 +20,7 @@ Welcome 👋
 - I believe in the open exchange of knowledge and am a strong advocate for open-source contributions.  Whether it’s sharing code, research, or simply breaking down complex ideas, I'm eager to contribute to a community where curiosity and collaboration lead the way.
 - I’m also dedicated to scientific communication, viewing the process of making complex concepts accessible as vital for both scientists and learners. By breaking down intricate ideas into clear, engaging, and relatable explanations, science communication bridges the gap between experts and the public, demystifying science and fostering broader interest and understanding.
 
-  ![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+  ![](https://github.com/gif/gif.gif)
 
 
 
