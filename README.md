@@ -6,7 +6,7 @@ Welcome 👋
 ### In brief
 - 🌱 I recently graduated with a Master’s degree in Physics from the École Normale Supérieure de Lyon.
 - 👀 I’m working in the field of ultrafast optics.
-- ✨ I’m interested in collaborating on projects focused on making science accessible to everyone.
+- ✨ I’m interested in collaborating on projects focused on making science accessible to each and everyone.
 
 
 ### What you will find on my page
