@@ -21,7 +21,7 @@ Welcome 👋
 - I’m also dedicated to scientific communication, viewing the process of making complex concepts accessible as vital for both scientists and learners. By breaking down intricate ideas into clear, engaging, and relatable explanations, science communication bridges the gap between experts and the public, demystifying science and fostering broader interest and understanding.
 
 
-
+Enjoy ! 
 
 ![gif2](https://github.com/user-attachments/assets/0639c8c6-cbc8-4a92-9643-a349475ef168)
   >    Pina Bausch, L'homme
