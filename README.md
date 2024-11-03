@@ -10,8 +10,8 @@ Welcome 👋
 
 
 ### What you will find on my page
-- Simulations and "journals" about how they came to be.
-- Coding "step by step".
+- Simulations and optimization.
+- Coding "step by step" for interactive learning.
 - Vulgarization contents.
 
 
