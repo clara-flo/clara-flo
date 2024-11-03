@@ -20,11 +20,12 @@ Welcome 👋
 - I believe in the open exchange of knowledge and am a strong advocate for open-source contributions.  Whether it’s sharing code, research, or simply breaking down complex ideas, I'm eager to contribute to a community where curiosity and collaboration lead the way.
 - I’m also dedicated to scientific communication, viewing the process of making complex concepts accessible as vital for both scientists and learners. By breaking down intricate ideas into clear, engaging, and relatable explanations, science communication bridges the gap between experts and the public, demystifying science and fostering broader interest and understanding.
 
-  ![]([https://github.com/gif/gif.gif](https://github.com/clara-flo/gif/blob/aa35a8dcd99a83b766a787fc4d08021b4355122f/gif.gif))
 
 
 
-<!---
+
+<!---![gif2](https://github.com/user-attachments/assets/0639c8c6-cbc8-4a92-9643-a349475ef168)
+
 clara-flo/clara-flo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 - 📫 How to reach me ...
