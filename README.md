@@ -23,8 +23,10 @@ Welcome 👋
 
 
 
+![gif2](https://github.com/user-attachments/assets/0639c8c6-cbc8-4a92-9643-a349475ef168)
+  >    Pina Bausch, L'homme
 
-<!---![gif2](https://github.com/user-attachments/assets/0639c8c6-cbc8-4a92-9643-a349475ef168)
+<!---
 
 clara-flo/clara-flo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
