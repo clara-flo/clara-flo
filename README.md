@@ -10,7 +10,7 @@ Welcome 👋
 
 
 ### What you will find on my page
-- Simulations and optimization.
+- Simulations and optimization in Python and C++.
 - Coding "step by step" for interactive learning.
 - Vulgarization contents.
 
